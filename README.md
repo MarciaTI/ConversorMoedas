@@ -42,7 +42,7 @@ Desenvolvedora BackEnd Java
 
 MarciaTI
 
-"Só sei que nada sei". (Sócrates)
+"Insistir, persistir, resistir e nunca desistir." 😄
 
 
 
