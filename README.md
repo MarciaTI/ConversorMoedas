@@ -36,9 +36,9 @@ INSTALAÇÃO
 
 SUGESTÕES
 
-Ajuda, novas idéias e susgestões para melhoria do projeto serão muito bem vindas.
+Ajuda, novas idéias e sugestões para melhoria do projeto serão muito bem vindas.
 
-DESENVOLVEDORA
+Desenvolvedora BackEnd Java
 
 MarciaTI
 
