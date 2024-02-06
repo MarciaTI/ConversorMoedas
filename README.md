@@ -1,4 +1,4 @@
-CONVERSOR DE MOEDAS
+CONVERSOR DE MOEDAS (DESAFIO)
 
 OBJETIVO
 
@@ -38,9 +38,7 @@ SUGESTÕES
 
 Ajuda, novas idéias e sugestões para melhoria do projeto serão muito bem vindas.
 
-Desenvolvedora BackEnd Java
-
-MarciaTI
+MarciaTI - BACKEND JAVA
 
 "Insistir, persistir, resistir e nunca desistir." 😄
 
