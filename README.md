@@ -4,17 +4,8 @@
 
 Criação de um Conversor de Moedas atendendo condições abaixo:
 
-•	Converter de Reais a Dólar
-
-•	Converter de Reais a Euro
-
-•	Converter de Reais a Libras Esterlinas
-
-•	Converter de Reais a Peso Argentino
-
-•	Converter de Reais a Peso Chileno
-
-assim como a conversão inversa também. Foi solicitado um Desafio Adicional, para incluir qualquer outro conversor, que neste projeto foi a inclusão de um Conversor de Distâncias.
+Converter de Reais a Dólar, Reais a Euro, Reais a Libras Esterlinas, Reais a Peso Argentino, Reais a Peso Chileno, e também a conversão inversa. 
+Foi adicionado um Conversor de Distâncias também.
 
 **<p>TECNOLOGIAS</p>**
 
@@ -36,17 +27,19 @@ Java - Java Swing - Eclipse IDE - Github - Trello
 
 **<p>VIDEO APRESENTAÇÃO</p>**
 
+- Não esqueça de habilitar o som do video!
 
+https://github.com/MarciaTI/ConversorMoedas/assets/135127319/5fa03056-0ac6-4200-a921-4616e85afbb9
 
 
 **<p>SUGESTÕES</p>**
 
-Sugestões para melhoria do projeto serão sempre muito bem vindas.
+Sugestões para melhoria do projeto serão sempre muito bem vindas!
 
-**<p>MarciaTI - BACKEND JAVA</p>**
+**<p>MarciaTI - JAVA  😄 </p>**
 
 
-*<p>Insistir, persistir, resistir e nunca desistir</p>* 😄
+*<p>Insistir, persistir, resistir e nunca desistir</p>*
 
 
 
